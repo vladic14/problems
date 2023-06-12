@@ -1,0 +1,14 @@
+﻿  Circuit.cpp
+  Dacia.cpp
+D:\python\Proiect OOP\Proiect\Dacia.cpp(20,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Ford.cpp
+D:\python\Proiect OOP\Proiect\Ford.cpp(20,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Mazda.cpp
+D:\python\Proiect OOP\Proiect\Mazda.cpp(20,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Mercedes.cpp
+D:\python\Proiect OOP\Proiect\Mercedes.cpp(20,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ProiectFinal.cpp
+  Renault.cpp
+D:\python\Proiect OOP\Proiect\Renault.cpp(20,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Proiect OOP.vcxproj -> D:\python\Proiect OOP\Proiect\x64\Debug\Proiect OOP.exe

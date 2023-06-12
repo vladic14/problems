@@ -1,0 +1,1 @@
+enum Timpul {Ploios,Senin,Inzapezit};
